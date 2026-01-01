@@ -58,5 +58,5 @@ Data cleaning and transformation at scale
 Designing decision-focused dashboards
 Translating raw data into meaningful insights
 
-![image alt](https://github.com/ratandeepsingh246-prog/Clean_India/blob/705caf3a89b3447fbd1bb7850e7a28b38b4b1b0d/Screenshot%20(179).png)
-![image](https://github.com/ratandeepsingh246-prog/Clean_India/blob/eea2b5f8bebc49091325e01ab041ae2def4a3a0f/Screenshot%20(180).png)
+![image alt](https://github.com/ratandeepsingh246-prog/Clean_India/blob/917292f037a6f20ce9b396267ba16d5ea1202b0a/Screenshot%20(179).png))
+![image]()
