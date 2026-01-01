@@ -59,4 +59,4 @@ Designing decision-focused dashboards
 Translating raw data into meaningful insights
 
 ![image alt](https://github.com/ratandeepsingh246-prog/Clean_India/blob/917292f037a6f20ce9b396267ba16d5ea1202b0a/Screenshot%20(179).png))
-![image]()
+![image](https://github.com/ratandeepsingh246-prog/Clean_India/blob/092a22f00b5000c779b6d3dd3d54bdfa210c86aa/Screenshot%20(180).png)
